@@ -9,6 +9,7 @@ Features
 * Squash & Stretch system
 * Undo functionality
 * Rig setup progress bar integrated
+* Mid Bendy Control system
 
 ![](http://cgart3d.com/wp-content/uploads/2017/08/flexiLineRig.png)
 
